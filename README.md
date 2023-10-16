@@ -1,8 +1,8 @@
-﻿﻿# ML-RecommendationSystem-SteamGame
+# ML-RecommendationSystem-SteamGame
 
 # **Steam game Recommendation System - Content-Based**
 
-<img src="?" align="center">
+<img src="https://github.com/Pisit-Janthawee/ML-RecommendationSystem-SteamGame/blob/main/output.png" align="center">
 
 ## **Machine Learning Steps**
 
