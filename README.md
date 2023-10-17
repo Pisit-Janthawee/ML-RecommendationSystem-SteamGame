@@ -74,8 +74,6 @@ to suggest games based on their similarities with the user's preferences.
   - Efficient utilization of the vast library of Steam games, ensuring that users find relevant and enjoyable content tailored to their preferences
   - Insights into user preferences and trends that can inform future game development and marketing strategies within the gaming industry.
 
-  -
-
 # File Description
 
 ## Folder
