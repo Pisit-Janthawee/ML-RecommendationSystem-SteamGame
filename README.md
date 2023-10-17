@@ -46,7 +46,7 @@ Now, let's dive into each of these steps in detail.
 ## Overview & Objective:
 
 **Overview**:
-In this project, we will be working with a dataset containing information about different Steam games, including their attributes such as release date, developer, genres, and user ratings. By utilizing natural language processing (NLP) techniques,
+In this project, we will be working with a dataset containing information about different Steam games, including their attributes such as name, developer, genres, category, steam tags, and description of the game. By utilizing natural language processing (NLP) techniques to normalize these text data for feeding to Vectorizer the result can be used to find similarity values. and recommend!
 
 **Objective**:
 to suggest games based on their similarities with the user's preferences.
